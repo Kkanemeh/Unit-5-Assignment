@@ -15,6 +15,13 @@ Coaches and managers can use this tool to compare players, select lineups, and m
 ### Connection to Chapter 7
 This project is in the Creative Phase, where new analytics ideas are developed to support decision-making.
 
+
+## Prototype Enhancement
+
+The prototype introduces a weighted performance metric where different statistics (such as goals, assists, and pass accuracy) are assigned different levels of importance.
+
+This improvement makes the tool more flexible and better aligned with team strategy, helping decision makers focus on what matters most.
+
 ## Prototype Evaluation
 
 The prototype enhancement should be integrated because it improves the usefulness of the tool and aligns better with decision-making needs.
