@@ -15,8 +15,27 @@ Coaches and managers can use this tool to compare players, select lineups, and m
 ### Connection to Chapter 7
 This project is in the Creative Phase, where new analytics ideas are developed to support decision-making.
 
+
 ## Prototype Enhancement
 
 The prototype introduces a weighted performance metric where different statistics (such as goals, assists, and pass accuracy) are assigned different levels of importance.
 
 This improvement makes the tool more flexible and better aligned with team strategy, helping decision makers focus on what matters most.
+
+## Prototype Evaluation
+
+The prototype enhancement should be integrated because it improves the usefulness of the tool and aligns better with decision-making needs.
+
+Feedback from coaches and managers would help determine if the metric is understandable and useful in real decisions.
+
+## Integration Decision
+
+The prototype will be merged into the main project because it adds value and improves decision-making.
+
+## Reflection on Innovation and Version Control
+
+Branches allow analysts to test new ideas without affecting the main project, supporting low-risk experimentation.
+
+GitHub helps organize, document, and improve analytics ideas, making it easier to communicate value to decision makers.
+
+This process aligns with the four phases of innovation: creative, prototyping, engagement, and build. By using version control, analytics teams can move ideas from concept to implementation while minimizing organizational resistance.
