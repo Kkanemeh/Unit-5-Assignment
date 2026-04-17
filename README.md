@@ -34,6 +34,8 @@ The prototype will be merged into the main project because it adds value and imp
 
 ## Reflection on Innovation and Version Control
 
+Engagement is reflected in how the prototype can be presented to coaches and managers so they can understand its value and support adoption.
+
 Branches allow analysts to test new ideas without affecting the main project, supporting low-risk experimentation.
 
 GitHub helps organize, document, and improve analytics ideas, making it easier to communicate value to decision makers.
